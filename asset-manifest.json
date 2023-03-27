@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/shivam04099.github.io/forportfolio/static/css/main.4924ba08.css",
-    "main.js": "/shivam04099.github.io/forportfolio/static/js/main.363aad80.js",
-    "static/media/shivam.jpeg": "/shivam04099.github.io/forportfolio/static/media/shivam.e5c3bfb404478e55b190.jpeg",
-    "static/media/yt-logo-mobile.png": "/shivam04099.github.io/forportfolio/static/media/yt-logo-mobile.7e67cd801ac3213983ff.png",
-    "static/media/yt-logo.png": "/shivam04099.github.io/forportfolio/static/media/yt-logo.d6505fbc930734374cea.png",
-    "index.html": "/shivam04099.github.io/forportfolio/index.html",
-    "main.4924ba08.css.map": "/shivam04099.github.io/forportfolio/static/css/main.4924ba08.css.map",
-    "main.363aad80.js.map": "/shivam04099.github.io/forportfolio/static/js/main.363aad80.js.map"
+    "main.css": "/forportfolio/static/css/main.4924ba08.css",
+    "main.js": "/forportfolio/static/js/main.65783e3e.js",
+    "static/media/shivam.jpeg": "/forportfolio/static/media/shivam.e5c3bfb404478e55b190.jpeg",
+    "static/media/yt-logo-mobile.png": "/forportfolio/static/media/yt-logo-mobile.7e67cd801ac3213983ff.png",
+    "static/media/yt-logo.png": "/forportfolio/static/media/yt-logo.d6505fbc930734374cea.png",
+    "index.html": "/forportfolio/index.html",
+    "main.4924ba08.css.map": "/forportfolio/static/css/main.4924ba08.css.map",
+    "main.65783e3e.js.map": "/forportfolio/static/js/main.65783e3e.js.map"
   },
   "entrypoints": [
     "static/css/main.4924ba08.css",
-    "static/js/main.363aad80.js"
+    "static/js/main.65783e3e.js"
   ]
 }
